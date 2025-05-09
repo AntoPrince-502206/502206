@@ -48,3 +48,8 @@ public class SampleTest {
         assertNotNull(str);
     }
 }
+
+
+
+
+https://github.com/mgsgoms/helloworld-java-maven
